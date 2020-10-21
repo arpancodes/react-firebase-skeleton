@@ -1,4 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Before you run this project
+
+Make sure you setup this project with your own firebase project details. You can do this by simply creating a new `.env` file in the root project directory and add the following (replacing with your own details):
+
+```
+REACT_APP_API_KEY=xxxXXXXXxxx
+REACT_APP_AUTH_DOMAIN=xxxXXXXXxxx
+REACT_APP_DATABASE_URL=xxxXXXXXxxx
+REACT_APP_PROJECT_ID=xxxXXXXXxxx
+REACT_APP_STORAGE_BUCKET=xxxXXXXXxxx
+REACT_APP_MESSAGING_SENDER_ID=xxxXXXXXxxx
+REACT_APP_APP_ID=xxxXXXXXxxx
+REACT_APP_MEASUREMENT_ID=xxxXXXXXxxx
+```
 
 ## Available Scripts
 
